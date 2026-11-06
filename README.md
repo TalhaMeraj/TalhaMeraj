@@ -4,7 +4,7 @@
 
 I build deep learning models that make medical imaging safer and more accessible. My current work synthesises contrast-enhanced brain MRI from non-contrast scans, to reduce the need for gadolinium contrast agents.
 
-🔭 **Open to 2027 research / applied-science internships** (Ireland & UK) in computer vision, medical imaging and generative AI.
+🔭 **Open to 2027 research / applied-science internships** in computer vision, medical imaging and generative AI.
 
 ---
 
